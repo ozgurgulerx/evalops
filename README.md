@@ -36,16 +36,10 @@ I’m building it **in the open**. Expect rough edges, chatty commit messages, a
 | `examples/`      | 25‑line, copy‑paste scripts |
 | `notebooks/`     | Exploratory scratchpad (ignored by CI) |
 
-<div align="center">
-  <img src="docs/images/flow.png" width="600" alt="EvalOps pipeline diagram (model → metrics → snapshot → dashboard)">
-</div>
 
 ---
 
 ## Roadmap 🔭
-- [x] Minimal CLI + Hydra config
-- [ ] Streamlit diff dashboard
-- [ ] Cost & energy metrics
 - [ ] Cookiecutter template (`cookiecutter‑evalops`)
 - [ ] HuggingFace evaluation hub integration
 
